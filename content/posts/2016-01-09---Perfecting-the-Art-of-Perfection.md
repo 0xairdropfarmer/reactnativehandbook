@@ -16,7 +16,7 @@ tags:
   - react native template
 ---
 ![](https://kriss.io/wp-content/uploads/2019/09/Free-react-native-template-800x450.png)
-<a href="https://www.instamobile.io/mobile-templates/react-native-templates-free/?ref=4094&amp;campaign=myblog">instamobile</a>
+
 
 At present, React Native is one of the top-notch and most prominent JavaScript Framework for making powerful native mobile apps, with the ability to build for both Android and iOS. It removes the hefty work to develop apps from a separate platform. Many popular applications are already running on this platform, including Facebook, Instagram, Netflix, and Airbnb. However, just due to the fact that React Native makes the process easier, it doesn’t mean it’s simple. The learning curve for React Native developers is pretty steep. This is where free React Native templates come in.
 
@@ -34,8 +34,8 @@ ome of the sources that provide those powerful, full-fledged and highly customiz
 
 Instamobile is one of the popular sources to get premium as well as free React Native app templates. Its aim is to help mobile application developers and entrepreneurs launch their own native app with minimum effort and cost, but with maximum speed. The react native templates provided by instamobile are highly customizable and modular. You can download beautiful Free React Native Templates to bootstrap your app development process. Some of the popular free react native templates includes Food App Template, Login Screen Template, Message iOS chat app template, Starter kit template and much more to help you start with your react native app quickly and efficiently. Therefore, All the free React Native Templates available in instamobile are open-source under MIT License. Thus, you can integrate them into your react-native projects without any complication or strings attached.
 
-Moreover, the most amazing thing is that you can download a wide variety of powerful and stunning react native templates for absolutely free and integrate them to your project as you wish. So why wait, begin implementing your own apps quickly from [instamobile](https://www.instamobile.io/mobile-templates/react-native-templates-free/?ref=4094&campaign=myblog).
-
+Moreover, the most amazing thing is that you can download a wide variety of powerful and stunning react native templates for absolutely free and integrate them to your project as you wish. So why wait, begin implementing your own apps quickly from 
+<a href="https://www.instamobile.io/mobile-templates/react-native-templates-free/?ref=4094&campaign=reactnativehandbook">instamobile</a>
  
 
 ## Creative-Tim
