@@ -66,9 +66,7 @@ Thus, it helps you develop a dynamic and powerful eCommerce application.
 ### React Native Ecommerce Template
 
 ![](https://cdn-images-1.medium.com/max/800/0*8m80LqTiP_IkE3HL.png)
-
-[React Native Ecommerce
-Template](https://www.instamobile.io/app-templates/react-native-ecommerce-app-template/?ref=4094&campaign=myblog)
+<a href="https://www.instamobile.io/app-templates/react-native-ecommerce-app-template/?ref=4094&campaign=myblog>React Native Ecommerce Template </a>
 is popular eCommerce template which will help you launch your shopping mobile
 apps for iOS and Android in minutes. This well-build template features full
 backend integration (Firebase). Provided with the scalable, clean and
