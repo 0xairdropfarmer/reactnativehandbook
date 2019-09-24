@@ -2,7 +2,7 @@
 template: post
 title: How to use OneSignal with React Native Chat App
 slug: How-to-use-OneSignal-with-React-Native-Chat-App
-draft: true
+draft: false
 date: 2019-09-24T03:43:34.835Z
 description: >-
   In this tutorial, we are going to learn how to integrate OneSignal
