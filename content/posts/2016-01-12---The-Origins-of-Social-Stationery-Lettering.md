@@ -49,13 +49,8 @@ This dating app template also features a Tinder-like swipe feature with fully cu
 
 ## React native Dating app template
 
-> #### [Mobile React Native Dating App with Backend | Download | Instamobile](https://www.instamobile.io/app-templates/react-native-dating-app/)
-> 
-> Make a Hot Mobile Dating App for iOS and Android today Download this cross-platform fully functional React Native Dating App to make an app like Tinder in just a few minutes. Our gorgeous React Native template is integrated with Firebase backend, so the app is working end-to-end, waiting for you to publish it.
 
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
-You can download this cross-platform, fully functional dating app template to develop an app like Tinder from [React Native Dating App](https://www.instamobile.io/app-templates/react-native-dating-app/). This gorgeous React Native template comes with Firebase backend. Hence, the application works end-to-end. The inspiration for design structure and user experience comes from the Tinder app which has a wide assortment of features, essential to develop a successful dating app.
+You can download this cross-platform, fully functional dating app template to develop an app like Tinder from <a href="https://www.instamobile.io/app-templates/react-native-dating-app/" target="_blank">React Native Dating App</a>. This gorgeous React Native template comes with Firebase backend. Hence, the application works end-to-end. The inspiration for design structure and user experience comes from the Tinder app which has a wide assortment of features, essential to develop a successful dating app.
 
 This dating template delivers cutting-edge features for users to register and log in, swipe left and right to like, dislike or super like other people. Moreover, there is also the availability of real-time private chat feature between matching individuals. Thus, this powerful and fully equipped app template is highly customizable with ready-to-use screens, easily configurable application design and is optimized for user growth. Therefore, some of the highly essential features include dynamic matching algorithm, Tinder-like swipe for like, location filters, real-time chat with firebase, stunning dating profile, photo upload, push notification, Facebook login, user management, Full Backend Integration with Firebase Auth, Firestore and Storage, etc. Having said that, this dynamic and efficient dating app template is available currently in market with two packages:
 
