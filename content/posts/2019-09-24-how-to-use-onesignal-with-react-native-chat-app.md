@@ -24,6 +24,10 @@ details such as the platform the device is running on. By using OneSignal
 plugin, mobile applications can send and receive push notifications. So, we are
 going to implement this OneSignal service to our React Native chat app in order
 to enable push notifications.
+
+### Launch the next Yelp in minutes
+Download this gorgeous [React Native Store Locator app template](https://www.instamobile.io/app-templates/react-native-store-locator-app-template/?ref=4094&campaign=myblog) to create your own store finder app in just a few minutes. By using this fully-coded starter kit written in React Native, you’re saving weeks of design and development and can focus on other important efforts such as customer engagement and marketing.
+
 ### Pre-requirement
 
 Basically, to integrate OneSignal to React Native, We must have the following
