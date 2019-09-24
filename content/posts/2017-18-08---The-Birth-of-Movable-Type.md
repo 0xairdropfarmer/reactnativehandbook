@@ -1,110 +1,186 @@
 ---
-title: "Johannes Gutenberg: The Birth of Movable Type"
-date: "2017-08-18T22:12:03.284Z"
-template: "post"
+template: post
+title: '5 best React Native eCommerce template 2019 '
+slug: '/posts/5-best-React-Native-eCommerce-template-2019 '
 draft: false
-slug: "/posts/the-birth-of-movable-type/"
-category: "Typography"
+date: 2019-07-25T22:12:03.284Z
+description: >-
+  Establishing online store, e-commerce websites and applications have been
+  agrowing trend in the modern world. Due to the utmost feasibility and
+  efficiencyof customer attraction from digital or online marketing, online
+  stores and
+category: react native
 tags:
-  - "Open source"
-  - "Gatsby"
-  - "Typography"
-description: "German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible."
-socialImage: "/media/gutenberg.jpg"
+  - Open source
+  - Gatsby
+  - Typography
 ---
+![](https://cdn-images-1.medium.com/max/800/0*lppQqiRCwd7zkGWu.png)
 
-German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.
+Establishing online store, e-commerce websites and applications have been a
+growing trend in the modern world. Due to the utmost feasibility and efficiency
+of customer attraction from digital or online marketing, online stores and
+e-commerce sites are growing rapidly. In the near future, there is a high
+possibility that every real-world store will set up its own on online store
+application or website. There is speedy growth of published e-commerce
+application in app stores. Mobile e-commerce application has been a growing
+trend nowadays. As more customers switch from PC to mobile platforms, pretty
+much any online store needs to have its own mobile application. This is where
+the React Native eCommerce template come in extremely handy.
 
-**Johannes Gensfleisch zur Laden zum Gutenberg** (c. 1398 – 1468) was a German blacksmith, goldsmith, printer, and publisher who introduced printing to Europe. His invention of mechanical movable type printing started the Printing Revolution and is widely regarded as the most important event of the modern period. It played a key role in the development of the Renaissance, Reformation, the Age of Enlightenment, and the Scientific revolution and laid the material basis for the modern knowledge-based economy and the spread of learning to the masses.
+In addition, they help save time in development and enables us to create and
+publish our own e-commerce application fast and efficiently. On top of that
+React Native provides the feature of cross-platform application development.
+This means the same application with ready-made high-end React Native template
+will be available for both iOS and Android without the need for separate
+development.
 
-<figure class="float-right" style="width: 240px">
-	<img src="/media/gutenberg.jpg" alt="Gutenberg">
-	<figcaption>Johannes Gutenberg</figcaption>
-</figure>
+Here, we provide you with a list of five best React Native e-commerce templates
+to choose from which will encourage you to choose the suitable one for your next
+e-commerce application.
 
-With his invention of the printing press, Gutenberg was the first European to use movable type printing, in around 1439. Among his many contributions to printing are: the invention of a process for mass-producing movable type; the use of oil-based ink; and the use of a wooden printing press similar to the agricultural screw presses of the period. His truly epochal invention was the combination of these elements into a practical system that allowed the mass production of printed books and was economically viable for printers and readers alike. Gutenberg's method for making type is traditionally considered to have included a type metal alloy and a hand mould for casting type. The alloy was a mixture of lead, tin, and antimony that melted at a relatively low temperature for faster and more economical casting, cast well, and created a durable type.
+### StoreX Pro — Complete React Native Ecommerce Template
 
-In Renaissance Europe, the arrival of mechanical movable type printing introduced the era of mass communication which permanently altered the structure of society. The relatively unrestricted circulation of information — including revolutionary ideas — transcended borders, captured the masses in the Reformation and threatened the power of political and religious authorities; the sharp increase in literacy broke the monopoly of the literate elite on education and learning and bolstered the emerging middle class. Across Europe, the increasing cultural self-awareness of its people led to the rise of proto-nationalism, accelerated by the flowering of the European vernacular languages to the detriment of Latin's status as lingua franca. In the 19th century, the replacement of the hand-operated Gutenberg-style press by steam-powered rotary presses allowed printing on an industrial scale, while Western-style printing was adopted all over the world, becoming practically the sole medium for modern bulk printing.
+![](https://cdn-images-1.medium.com/max/800/0*6myq3KgwS16eCO9B.png)
 
-The use of movable type was a marked improvement on the handwritten manuscript, which was the existing method of book production in Europe, and upon woodblock printing, and revolutionized European book-making. Gutenberg's printing technology spread rapidly throughout Europe and later the world.
+[StoreX Pro](http://1.envato.market/70vE3) takes the top spot in our best React
+Native eCommerce application templates for numerous reasons. The code in this
+template is well-structured and optimized highly. Using this template you can
+save 1000+ hours of development and design and just concentrate on your product
+as a whole. This template supports multi-language interface which makes it
+usable all over the world. It has integrated WooCommerce which works with
+RestAPI. It allows you to develop powerful Android and iOS applications. The
+template provides push notification service powered by OneSignal. The modules
+provided by the template are re-usable and feasible, easy to customize and use.
+The most useful and important feature is the integration of multiple payment
+gateways.
 
-His major work, the Gutenberg Bible (also known as the 42-line Bible), has been acclaimed for its high aesthetic and technical quality.
+In addition, this template is build using multiple dynamic and popular React
+Native plugins packages. Some of the noteworthy React Native Technology used are
+React Native Navigations, React Native Animatable, Redux, Modal, Image Picker,
+Sliders, etc. The structure and coding environment are amazing with separate
+views, code file, and style file. The template comes with Tab, Drawer and Stack
+navigation. Hence, this well-build template is highly modular and customizable.
+Thus, it helps you develop a dynamic and powerful eCommerce application.
 
-## Printing Press
+### React Native Ecommerce Template
 
-Around 1439, Gutenberg was involved in a financial misadventure making polished metal mirrors (which were believed to capture holy light from religious relics) for sale to pilgrims to Aachen: in 1439 the city was planning to exhibit its collection of relics from Emperor Charlemagne but the event was delayed by one year due to a severe flood and the capital already spent could not be repaid. When the question of satisfying the investors came up, Gutenberg is said to have promised to share a “secret”. It has been widely speculated that this secret may have been the idea of printing with movable type. Also around 1439–1440, the Dutch Laurens Janszoon Coster came up with the idea of printing. Legend has it that the idea came to him “like a ray of light”.
+![](https://cdn-images-1.medium.com/max/800/0*8m80LqTiP_IkE3HL.png)
 
-<figure class="float-left" style="width: 240px">
-	<img src="/media/printing-press.jpg" alt="Early Printing Press">
-	<figcaption>Early wooden printing press as depicted in 1568.</figcaption>
-</figure>
+[React Native Ecommerce
+Template](https://www.instamobile.io/app-templates/react-native-ecommerce-app-template/?ref=4094&campaign=myblog)
+is popular eCommerce template which will help you launch your shopping mobile
+apps for iOS and Android in minutes. This well-build template features full
+backend integration (Firebase). Provided with the scalable, clean and
+comprehensive source code, this shopping app template is a great starter kit for
+everyone, regardless of whether they’re looking to learn React Native or to
+build a complete production shopping app. The most noteworthy features include a
+Home screen with carousels and grid view of products, Products screen with the
+product detail, photo gallery, size and color picker, social media share button,
+Search screen to search based on categories, Shopping cart with full-fledged
+history and re-order function, etc. For the payment gateway, there is stripe
+integration as well as Apple pay for iOS and Google pay for Android.
 
-Until at least 1444 he lived in Strasbourg, most likely in the St. Arbogast parish. It was in Strasbourg in 1440 that Gutenberg is said to have perfected and unveiled the secret of printing based on his research, mysteriously entitled Kunst und Aventur (art and enterprise). It is not clear what work he was engaged in, or whether some early trials with printing from movable type may have been conducted there. After this, there is a gap of four years in the record. In 1448, he was back in Mainz, where he took out a loan from his brother-in-law Arnold Gelthus, quite possibly for a printing press or related paraphernalia. By this date, Gutenberg may have been familiar with intaglio printing; it is claimed that he had worked on copper engravings with an artist known as the Master of Playing Cards.
+Moreover, the integration of dynamic database system with Firebase (Firestore),
+user management feature, photo storage will make things a hell of a lot easier
+for React Native developers. On top of that, the code base is highly modular and
+optimized for Android and iOS platforms. There is an integration of Facebook SDK
+as well. The clean interface and dynamic navigation through integration of
+popular React Native plugin packages is plus point. Hence, this template
+delivers all the requirements to develop an e-commerce app easily and
+efficiently.
 
-By 1450, the press was in operation, and a German poem had been printed, possibly the first item to be printed there. Gutenberg was able to convince the wealthy moneylender Johann Fust for a loan of 800 guilders. Peter Schöffer, who became Fust’s son-in-law, also joined the enterprise. Schöffer had worked as a scribe in Paris and is believed to have designed some of the first typefaces.
+### React Native Grocery Shopping Starter
 
-<figure>
-	<blockquote>
-		<p>All that has been written to me about that marvelous man seen at Frankfurt is true. I have not seen complete Bibles but only a number of quires of various books of the Bible. The script was very neat and legible, not at all difficult to follow—your grace would be able to read it without effort, and indeed without glasses.</p>
-		<footer>
-			<cite>—Future pope Pius II in a letter to Cardinal Carvajal, March 1455</cite>
-		</footer>
-	</blockquote>
-</figure>
+![](https://cdn-images-1.medium.com/max/800/0*GBUTOm44s8rZsBko.jpg)
 
-Gutenberg's workshop was set up at Hof Humbrecht, a property belonging to a distant relative. It is not clear when Gutenberg conceived the Bible project, but for this he borrowed another 800 guilders from Fust, and work commenced in 1452. At the same time, the press was also printing other, more lucrative texts (possibly Latin grammars). There is also some speculation that there may have been two presses, one for the pedestrian texts, and one for the Bible. One of the profit-making enterprises of the new press was the printing of thousands of indulgences for the church, documented from 1454–55.
+[Grocery Shopping
+Starter](https://store.enappd.com/product/react-native-grocery-shopping-starter/?aff=7)
+template is built using React Native has provided 5-star customer satisfaction
+along the course of its development. This template facilitates 20+ screens
+equipped with full functionality that an eCommerce app requires. This app
+template was developed by expert UI developers to provide a great app UI for
+your own Grocery app. This is a great starting point for app development since
+all the screens and components are preset. But, backend API integration is
+required to feed the data. Then, you can start your app development easily.
 
-In 1455 Gutenberg completed his 42-line Bible, known as the Gutenberg Bible. About 180 copies were printed, most on paper and some on vellum.
+Moreover, the most useful and noteworthy features provided by this app template
+are the user authentication with OTP verification, tab configured swipe-enabled
+product pages with easy transitions, cart functionality with payment gateways
+from Credit/Debit card, User profile which a user can modify and add card
+information. The code is highly modular and customizable which saves +2000 of
+hours of development and design for any developer looking to kick start a
+grocery eCommerce application. Hence, this template may be one for you in order
+to develop a simple but dynamic eCommerce application using React Native.
 
-## Court Case
+### React Native E-Commerce Starter 9.1.0
 
-Some time in 1456, there was a dispute between Gutenberg and Fust, and Fust demanded his money back, accusing Gutenberg of misusing the funds. Meanwhile the expenses of the Bible project had proliferated, and Gutenberg's debt now exceeded 20,000 guilders. Fust sued at the archbishop's court. A November 1455 legal document records that there was a partnership for a "project of the books," the funds for which Gutenberg had used for other purposes, according to Fust. The court decided in favor of Fust, giving him control over the Bible printing workshop and half of all printed Bibles.
+![](https://cdn-images-1.medium.com/max/800/0*tmnf9EQEdCPjIdkP.png)
 
-Thus Gutenberg was effectively bankrupt, but it appears he retained (or re-started) a small printing shop, and participated in the printing of a Bible in the town of Bamberg around 1459, for which he seems at least to have supplied the type. But since his printed books never carry his name or a date, it is difficult to be certain, and there is consequently a considerable scholarly debate on this subject. It is also possible that the large Catholicon dictionary, 300 copies of 754 pages, printed in Mainz in 1460, may have been executed in his workshop.
+This [E-Commerce Starter
+template](https://market.nativebase.io/view/react-native-e-commerce-starter?utm_source=StrapMobile&utm_medium=website&utm_campaign=StrapMobile)
+can serve as a well-structured React Native starter project to build your iOS
+and Android e-commerce app. This starter template is a pure React Native
+application and also available with Expo client. It provides fully customizable
+screens along-with a rich collection of UI elements specifically for an ideal
+e-commerce app. This template is only a UI theme. There is no backend
+integration and no connection to any APIs.
 
-Meanwhile, the Fust–Schöffer shop was the first in Europe to bring out a book with the printer's name and date, the Mainz Psalter of August 1457, and while proudly proclaiming the mechanical process by which it had been produced, it made no mention of Gutenberg.
+This template features a bold and flexible React Native theme best suited for
+developing high-quality mobile apps that makes use of ready-made tools. The
+template is dynamic and has Redux integrated along with NativeBase and React
+Navigation. So, it features high optimization which helps you to develop
+world-class application experiences on native platforms. There is an integration
+of CRNA and Expo. It facilitates enormous set of UI elements and highly
+customizable widgets. Moreover, the routing is pretty easy just like on the web.
+It uses ESlint for code quality and Prettier for pretty, formatted JavaScript
+code. It provides perfectly native look and feels for you eCommerce application
+available both in iOS and Android. Numerous popular React Native plugin packages
+are already installed and initialized in making various components so that it
+will be simple and easy for us to develop a beautiful eCommerce application.
 
-## Later Life
+### CeStore
 
-In 1462, during a conflict between two archbishops, Mainz was sacked by archbishop Adolph von Nassau, and Gutenberg was exiled. An old man by now, he moved to Eltville where he may have initiated and supervised a new printing press belonging to the brothers Bechtermünze.
+![](https://cdn-images-1.medium.com/max/800/0*icNW_BiW4IzdJBj6.png)
 
-In January 1465, Gutenberg's achievements were recognized and he was given the title Hofmann (gentleman of the court) by von Nassau. This honor included a stipend, an annual court outfit, as well as 2,180 litres of grain and 2,000 litres of wine tax-free. It is believed he may have moved back to Mainz around this time, but this is not certain.
+[CeStore](http://1.envato.market/LdMAO) is a full-fledged e-commerce solution
+from the store’s mobile-friendly website to a mobile application. It helps you
+to build your online sale shop from scratch. This template provides support for
+both ReactJS and React Native which makes it viable for both web and mobile
+applications. The coding languages used in this template are ReactJS and React
+Native frameworks, which are 2 most popular and optimized frameworks for your
+today launch store. It has all the requirements to develop a super-fast
+eCommerce website and mobile app. There is an integration of backend tools like
+NodeJS, Express, and MongoDB. The application developed using this template runs
+smoothly and already well testing on both iOS & Android. It supplies free
+regular version update & coming new features.
 
-***
+It has the built-in push notification and Stripes integrated for payment option.
+This template provides 2-way sync between the website and the application. This
+means the application connects to Node Backend through RestAPI. So, whenever
+there is an update in website, it will not have an impact on the application.
+Moreover, the theme supplies smooth transitions between screens with Lotties
+animations. It also facilitates the Native and Social share functionality. One
+of the noteworthy features is that this template provides offline access as
+well. The features like login, user profile, registration, checkout, etc. are
+worth a mention. Hence, this template is easily installable and is a great
+boilerplate to kick off your next eCommerce project.
 
-Gutenberg died in 1468 and was buried in the Franciscan church at Mainz, his contributions largely unknown. This church and the cemetery were later destroyed, and Gutenberg's grave is now lost.
+### <br> 
 
-In 1504, he was mentioned as the inventor of typography in a book by Professor Ivo Wittig. It was not until 1567 that the first portrait of Gutenberg, almost certainly an imaginary reconstruction, appeared in Heinrich Pantaleon's biography of famous Germans.
+### Conclusion
 
-## Printing Method With Movable Type
+Above are the exciting and informative collection of the best React Native
+e-commerce templates that one can find today. You can play around with concepts
+and learn that could be turned into financially feasible ideas and published
+eCommerce application. With the number of UI theme elements, components,
+screens, and backend features that you are going to get from these e-commerce
+templates, you can get a ready-made app with option to customize it as you want.
+Hence, these templates not only helps you develop full-fledged, powerful and
+dynamic eCommerce application but also helps you learn the dynamism of React
+Native.
 
-Gutenberg's early printing process, and what tests he may have made with movable type, are not known in great detail. His later Bibles were printed in such a way as to have required large quantities of type, some estimates suggesting as many as 100,000 individual sorts. Setting each page would take, perhaps, half a day, and considering all the work in loading the press, inking the type, pulling the impressions, hanging up the sheets, distributing the type, etc., it is thought that the Gutenberg–Fust shop might have employed as many as 25 craftsmen.
+### Disclosure
 
-![Movable metal type, and composing stick, descended from Gutenberg's press. Photo by Willi Heidelbach. Licensed under CC BY 2.5](/media/movable-type.jpg)
-
-*Movable metal type, and composing stick, descended from Gutenberg's press. Photo by Willi Heidelbach. Licensed under CC BY 2.5*
-
-Gutenberg's technique of making movable type remains unclear. In the following decades, punches and copper matrices became standardized in the rapidly disseminating printing presses across Europe. Whether Gutenberg used this sophisticated technique or a somewhat primitive version has been the subject of considerable debate.
-
-In the standard process of making type, a hard metal punch (made by punchcutting, with the letter carved back to front) is hammered into a softer copper bar, creating a matrix. This is then placed into a hand-held mould and a piece of type, or "sort", is cast by filling the mould with molten type-metal; this cools almost at once, and the resulting piece of type can be removed from the mould. The matrix can be reused to create hundreds, or thousands, of identical sorts so that the same character appearing anywhere within the book will appear very uniform, giving rise, over time, to the development of distinct styles of typefaces or fonts. After casting, the sorts are arranged into type-cases, and used to make up pages which are inked and printed, a procedure which can be repeated hundreds, or thousands, of times. The sorts can be reused in any combination, earning the process the name of “movable type”.
-
-The invention of the making of types with punch, matrix and mold has been widely attributed to Gutenberg. However, recent evidence suggests that Gutenberg's process was somewhat different. If he used the punch and matrix approach, all his letters should have been nearly identical, with some variations due to miscasting and inking. However, the type used in Gutenberg's earliest work shows other variations.
-
-<figure>
-	<blockquote>
-		<p>It is a press, certainly, but a press from which shall flow in inexhaustible streams… Through it, god will spread his word.</p>
-		<footer>
-			<cite>—Johannes Gutenberg</cite>
-		</footer>
-	</blockquote>
-</figure>
-
-In 2001, the physicist Blaise Agüera y Arcas and Princeton librarian Paul Needham, used digital scans of a Papal bull in the Scheide Library, Princeton, to carefully compare the same letters (types) appearing in different parts of the printed text. The irregularities in Gutenberg's type, particularly in simple characters such as the hyphen, suggested that the variations could not have come from either ink smear or from wear and damage on the pieces of metal on the types themselves. While some identical types are clearly used on other pages, other variations, subjected to detailed image analysis, suggested that they could not have been produced from the same matrix. Transmitted light pictures of the page also appeared to reveal substructures in the type that could not arise from traditional punchcutting techniques. They hypothesized that the method may have involved impressing simple shapes to create alphabets in “cuneiform” style in a matrix made of some soft material, perhaps sand. Casting the type would destroy the mould, and the matrix would need to be recreated to make each additional sort. This could explain the variations in the type, as well as the substructures observed in the printed images.
-
-Thus, they feel that “the decisive factor for the birth of typography”, the use of reusable moulds for casting type, might have been a more progressive process than was previously thought. They suggest that the additional step of using the punch to create a mould that could be reused many times was not taken until twenty years later, in the 1470s. Others have not accepted some or all of their suggestions, and have interpreted the evidence in other ways, and the truth of the matter remains very uncertain.
-
-A 1568 history by Hadrianus Junius of Holland claims that the basic idea of the movable type came to Gutenberg from Laurens Janszoon Coster via Fust, who was apprenticed to Coster in the 1430s and may have brought some of his equipment from Haarlem to Mainz. While Coster appears to have experimented with moulds and castable metal type, there is no evidence that he had actually printed anything with this technology. He was an inventor and a goldsmith. However, there is one indirect supporter of the claim that Coster might be the inventor. The author of the Cologne Chronicle of 1499 quotes Ulrich Zell, the first printer of Cologne, that printing was performed in Mainz in 1450, but that some type of printing of lower quality had previously occurred in the Netherlands. However, the chronicle does not mention the name of Coster, while it actually credits Gutenberg as the "first inventor of printing" in the very same passage (fol. 312). The first securely dated book by Dutch printers is from 1471, and the Coster connection is today regarded as a mere legend.
-
-The 19th century printer and typefounder Fournier Le Jeune suggested that Gutenberg might not have been using type cast with a reusable matrix, but possibly wooden types that were carved individually. A similar suggestion was made by Nash in 2004. This remains possible, albeit entirely unproven.
-
-It has also been questioned whether Gutenberg used movable types at all. In 2004, Italian professor Bruno Fabbiani claimed that examination of the 42-line Bible revealed an overlapping of letters, suggesting that Gutenberg did not in fact use movable type (individual cast characters) but rather used whole plates made from a system somewhat like a modern typewriter, whereby the letters were stamped successively into the plate and then printed. However, most specialists regard the occasional overlapping of type as caused by paper movement over pieces of type of slightly unequal height.
+This post includes affiliate links; I may receive compensation if you purchase
+products or services from the different links provided in this article.
