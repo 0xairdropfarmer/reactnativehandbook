@@ -1,7 +1,7 @@
 ---
 template: post
 title: '5 best React Native eCommerce template 2019 '
-slug: '/posts/5-best-React-Native-eCommerce-template-2019 '
+slug: '5-best-React-Native-eCommerce-template-2019 '
 draft: false
 date: 2019-07-25T22:12:03.284Z
 description: >-
