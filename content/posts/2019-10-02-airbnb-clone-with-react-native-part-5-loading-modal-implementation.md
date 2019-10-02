@@ -15,7 +15,7 @@ tags:
 ---
 
 
-This tutorial is the fifth chapter of our implementation of an [AirBnB clone in React Native](https://www.instamobile.io/app-templates/real-estate-app-template-react-native/?ref=4094&campaign=hackernoon "https://www.instamobile.io/app-templates/real-estate-app-template-react-native/?ref=4094&campaign=hackernoon"). In the previous chapter, we successfully implemented a login error notification system. In case you need to get caught up, here are links to [parts 1–4](https://heartbeat.fritz.ai/@kris101?source=post_page-----8a399154ac02---------------------- "https://heartbeat.fritz.ai/@kris101?source=post\_page-----8a399154ac02----------------------")
+This tutorial is the fifth chapter of our implementation of an <a href="https://www.instamobile.io/app-templates/real-estate-app-template-react-native/?ref=4094&amp;campaign=hackernoon" title="https://www.instamobile.io/app-templates/real-estate-app-template-react-native/?ref=4094&amp;campaign=hackernoon" target="_blank" >AirBnB clone in React Native</a>. In the previous chapter, we successfully implemented a login error notification system. In case you need to get caught up, here are links to [parts 1–4](https://heartbeat.fritz.ai/@kris101?source=post_page-----8a399154ac02---------------------- "https://heartbeat.fritz.ai/@kris101?source=post\_page-----8a399154ac02----------------------")
 
 In part 5, we’re going to continue from where we left off by implementing a loading modal before generating the error notification message. Usually, we might notice a delay in the response from the server when we initialize the request. This may be caused by a slow internet connection or slow device.
 
